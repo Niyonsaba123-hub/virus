@@ -1,5 +1,6 @@
 # virus
 #virus incryption &amp; decryption of all pdf files
+............VIRUS ENCRYPTOR..........
 
 #include <iostream>
 #include <fstream>
